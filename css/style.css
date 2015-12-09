@@ -1,0 +1,13 @@
+html,
+button,
+input,
+select,
+textarea,
+.pure-g [class *= 'pure-u'] {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  font-weight: 400;
+  box-sizing: border-box;
+}
