@@ -40,6 +40,10 @@ body {
   margin-bottom: 1em;
 }
 
+.article .article-img img {
+  min-width: 100%;
+}
+
 .article .article-content {
   background-color: #fff;
   position: relative;
@@ -53,7 +57,7 @@ body {
 }
 
 .article .article-content .headline {
-  display: block;
+  margin: 0;
 }
 
 .article-content .info .like {
@@ -90,7 +94,6 @@ body {
 }
 
 .top-news .article-content .headline {
-  margin: 0;
   padding-bottom: 1em;
 
   border-bottom: 1px solid #2c3e50;
